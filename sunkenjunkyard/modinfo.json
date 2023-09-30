@@ -1,0 +1,9 @@
+{
+	"id": "azure.sunkenjunkyard",
+	"name": "Sunken Junkyard",
+	"authors": "Azure",
+	"description": "",
+	"requirements": ["regionkit"],
+	"requirements_names": ["RegionKit"],
+	"checksum_override_version": false
+}
